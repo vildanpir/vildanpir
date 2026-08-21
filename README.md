@@ -6,7 +6,7 @@ Data Analyst based in the Netherlands, working with Python, SQL, Tableau, machin
 
 | Project | What it demonstrates |
 |---|---|
-| [Smart Power — Live app](https://smart-power-project-77smllbet6dp3ehumkeoqg.streamlit.app/) · [Code](https://github.com/vildanpir/smart-power-project) | End-to-end energy analytics: API ingestion, SQL, EDA, machine learning, Tableau, and Streamlit |
+| [Smart Power — Live app](https://smart-power-project-77smllbet6dp3ehumkeoqg.streamlit.app/) · [Tableau](https://public.tableau.com/app/profile/vildan.pirpiroglu/viz/smart_power_dashboard/SmartPowerDashboard) · [Code](https://github.com/vildanpir/smart-power-project) | End-to-end energy analytics: API ingestion, SQL, EDA, machine learning, Tableau, and Streamlit |
 | [Vanguard A/B Test](https://github.com/vildanpir/vanguard-ab-test) | Experiment design, completion metrics, statistical testing, and business-threshold evaluation |
 | [Credit Card Fraud Detection](https://github.com/vildanpir/credit-card-fraud-detection) | Imbalanced classification with a locked final test set, SMOTE, model comparison, and responsible-use limits |
 | [Marketing Campaign Performance](https://github.com/vildanpir/data-wrangling-project) | Weighted funnel metrics, ROAS/CPA analysis, reproducible reporting, and careful non-causal interpretation |
