@@ -1,6 +1,8 @@
 # Hi, I'm Vildan Pirpiroglu
 
-Data Analyst based in the Netherlands, working with Python, SQL, Tableau, machine learning, and Streamlit. I turn messy operational data into clear metrics, reproducible analyses, and decision-ready dashboards.
+Data & Analytics professional based in the Netherlands, working with Python, SQL, Tableau, machine learning, and Streamlit. I turn messy operational data into clear metrics, reproducible analyses, and decision-ready dashboards.
+
+**Portfolio:** [vildanpir.com](https://vildanpir.com) · **LinkedIn:** [vildanpirpiroglu](https://www.linkedin.com/in/vildanpirpiroglu/)
 
 ## Selected projects
 
